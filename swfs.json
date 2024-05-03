@@ -65,13 +65,20 @@
       "type": "Game"
     },
     {
+      "location": "swfs/ssf_ONE.swf",
+      "title": "SFF1",
+      "author": "Mcleod Gaming",
+      "authorLink": "https://www.mcleodgaming.com",
+      "type": "Game"
+    },
+    {
       "location": "swfs/wasted_sky.swf",
       "title": "Wasted Sky",
       "author": "Tom Fulp",
       "authorLink": "https://www.newgrounds.com",
       "type": "Game"
     },
-     {
+    {
       "location": "swfs/SSF20.8[wont run].swf",
       "title": "SSF2 0.8",
       "author": "mcleodgaming",
